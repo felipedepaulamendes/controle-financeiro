@@ -1,5 +1,7 @@
 # Meu Orçamento
 
+<img width="951" height="1035" alt="image" src="https://github.com/user-attachments/assets/3c1851e3-f867-43bb-8015-c511faa3c4bb" />
+
 Um organizador financeiro pessoal feito com HTML, CSS e JavaScript.
 
 ## Funcionalidades
