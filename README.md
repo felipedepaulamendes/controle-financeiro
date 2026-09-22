@@ -27,3 +27,4 @@ Um organizador financeiro pessoal feito com HTML, CSS e JavaScript.
 - Adicionar categorias e filtro por mês
 - Criar gráficos de gastos
 - Adicionar modo escuro
+Projeto criado para meu portfólio no GitHub.
